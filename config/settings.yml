@@ -1,2 +1,3 @@
 castle_plugin:
   castle_api_key: XXX
+  castle_app_secret: XXX
